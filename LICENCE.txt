@@ -1,0 +1,1 @@
+This is created by Git Command (npp LICENCE.txt) in demo floder.
